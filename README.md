@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS Todo App
+
+## Description
+Welcome to Todo App. This is an simple todo app implemented using NextJS.
+
+## Supported features
+* Todos - Add | List
+
+## Stack
+* NextJS 13.4.4
+* ReactJS 18.2.0
+* Typescript 5.1.3
+* Tailwind CSS 3.3.2
+* React dom 18.2.0
+
+## Install and Run the Project
+1. Install NodeJS
+2. Clone the repository - git clone https://github.com/dlakmalb/nextjs_todo_app.git
+3. Go to project directory - cd nextjs_todo_app
+4. Run npm install
+5. Duplicate .env-sample and rename it as .env
+6. Run migrations - npx prisma migrate dev --name init
+7. Todo app will be available at [http://localhost:3000]
 
 ## Getting Started
 
