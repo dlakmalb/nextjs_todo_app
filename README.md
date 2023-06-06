@@ -20,7 +20,7 @@ Welcome to Todo App. This is an simple todo app implemented using NextJS.
 4. Run npm install
 5. Duplicate .env-sample and rename it as .env
 6. Run migrations - npx prisma migrate dev --name init
-7. Todo app will be available at [http://localhost:3000]
+7. Todo app will be available at [http://localhost:3000](http://localhost:3000)
 
 ## Getting Started
 
